@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cidran
+- 👋 Hi, I’m Phillipe @Cidran
 - 👀 I’m interested in Front and Back-end development.
-- 🌱 I’m currently Front-End and Java EE with Spring.
+- 🌱 I’m currently Front-End and Java EE with Springboot.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
