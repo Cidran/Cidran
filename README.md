@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-I'm Cidran, a passionate developer and technology enthusiast with over 15 years of experience in the industry. I hold a degree in Game Design and am currently pursuing a Bachelor's degree in Computer Science.
+I am a passionate developer with a strong background in game design and currently pursuing a Bachelor's degree in Computer Science. While I am proficient in various programming languages, my favorite is Java. I enjoy working on diverse projects with Java and am on a journey to become a back-end developer and, potentially, a software engineer.
 
 ## About Me
-🌱 Learning: Currently diving deep into Godot and exploring various game engines.
+🎮 Game Design Graduate: I hold a technologist degree in Game Design.
 
-💻 Programming: I have a strong affinity for Java and love to code in it.
+💻 Computer Science Student: Currently pursuing a Bachelor's degree in Computer Science.
 
-🎮 Game Design: My academic background is in Game Design, which fuels my passion for creating engaging and immersive experiences.
+🚀 Aspiring Back-End Developer: I have a keen interest in back-end development and am continuously improving my skills in this area.
 
-🚀 Experience: Over 15 years working in technology and development.
+🌟 Future Software Engineer: My long-term goal is to become a software engineer.
 
 
 ## Let's Connect
