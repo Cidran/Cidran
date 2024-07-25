@@ -10,7 +10,3 @@ I am a passionate developer with a strong background in game design and currentl
 🚀 Aspiring Back-End Developer: I have a keen interest in back-end development and am continuously improving my skills in this area.
 
 🌟 Future Software Engineer: My long-term goal is to become a software engineer.
-
-
-## Let's Connect
-Feel free to reach out if you want to collaborate on a project, discuss game engines, or just talk about tech in general!
