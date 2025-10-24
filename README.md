@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a passionate developer with a strong background in game design and currently pursuing a Bachelor's degree in Computer Science. While I am proficient in various programming languages, my favorite is Java. I enjoy working on diverse projects with Java and am on a journey to become a back-end developer and, potentially, a software engineer.
+I am a passionate developer with a strong background in game design and a Bachelor's degree in Computer Science.. While I am proficient in various programming languages, my favorite is Java. I enjoy working on diverse projects with Java and am on a journey to become a back-end developer and, potentially, a software engineer.
 
 ## About Me
 🎮 Game Design Graduate: I hold a technologist degree in Game Design.
