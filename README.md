@@ -5,7 +5,7 @@ I am a passionate developer with a strong background in game design and currentl
 ## About Me
 🎮 Game Design Graduate: I hold a technologist degree in Game Design.
 
-💻 Computer Science Student: Currently pursuing a Bachelor's degree in Computer Science.
+💻 Computer Science Graduate: I have a Bachelor's degree in Computer Science.
 
 🚀 Aspiring Back-End Developer: I have a keen interest in back-end development and am continuously improving my skills in this area.
 
